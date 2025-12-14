@@ -1,0 +1,5 @@
+{
+  "name": "Excel Question Bank Generator",
+  "description": "Convert Word documents or text into formatted Excel question banks using Gemini AI. Matches specific UMU/Enterprise import templates.",
+  "requestFramePermissions": []
+}
